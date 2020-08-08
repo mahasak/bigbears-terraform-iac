@@ -1,4 +1,5 @@
 # How to create GKE with Terraform script
+
 ## Setup Google Cloud credentials
 ```
 export GOOGLE_APPLICATION_CREDENTIALS=[/patgh/to/google/service/account/json 
