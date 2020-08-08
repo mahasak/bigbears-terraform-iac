@@ -4,7 +4,7 @@
 export GOOGLE_APPLICATION_CREDENTIALS=[/patgh/to/google/service/account/json 
 ```
 
-## Decalre terraform variable values in "terraform.tfvars"
+## Declare terraform variable values in "terraform.tfvars"
 ```
 project_id   = "bigbears-io"                     # Put GCP Project ID.
 machine_type = "n1-standard-1"        # Put the desired VM Instance type.
